@@ -1,0 +1,1101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bellet Boomgaard Camerig",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.933862,
+              50.766024
+            ],
+            [
+              5.935031,
+              50.766173
+            ],
+            [
+              5.936007,
+              50.766417
+            ],
+            [
+              5.936877,
+              50.766601
+            ],
+            [
+              5.937295,
+              50.766641
+            ],
+            [
+              5.938636,
+              50.766268
+            ],
+            [
+              5.938497,
+              50.765501
+            ],
+            [
+              5.937735,
+              50.764789
+            ],
+            [
+              5.93751,
+              50.764402
+            ],
+            [
+              5.936426,
+              50.764035
+            ],
+            [
+              5.935535,
+              50.763845
+            ],
+            [
+              5.934087,
+              50.763635
+            ],
+            [
+              5.933132,
+              50.763411
+            ],
+            [
+              5.932252,
+              50.763207
+            ],
+            [
+              5.93163,
+              50.763235
+            ],
+            [
+              5.930879,
+              50.763744
+            ],
+            [
+              5.933572,
+              50.764402
+            ],
+            [
+              5.934237,
+              50.764653
+            ],
+            [
+              5.933722,
+              50.765189
+            ],
+            [
+              5.93457,
+              50.765237
+            ],
+            [
+              5.934452,
+              50.765576
+            ],
+            [
+              5.934452,
+              50.765576
+            ],
+            [
+              5.933862,
+              50.766024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bomenrij Gieten"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.769826,
+              52.996503
+            ],
+            [
+              6.770893,
+              52.995389
+            ],
+            [
+              6.771135,
+              52.995028
+            ],
+            [
+              6.771199,
+              52.994821
+            ],
+            [
+              6.770529,
+              52.994637
+            ],
+            [
+              6.770491,
+              52.994727
+            ],
+            [
+              6.771027,
+              52.994899
+            ],
+            [
+              6.770727,
+              52.995325
+            ],
+            [
+              6.770153,
+              52.99589
+            ],
+            [
+              6.769638,
+              52.996432
+            ],
+            [
+              6.769826,
+              52.996503
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bomenrij Peize"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.497329,
+            53.140972
+          ],
+          [
+            6.497796,
+            53.140911
+          ],
+          [
+            6.498129,
+            53.140792
+          ],
+          [
+            6.498333,
+            53.140679
+          ],
+          [
+            6.498354,
+            53.140525
+          ],
+          [
+            6.498327,
+            53.140348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomgaard Hoornsedijk"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.563194,
+              53.190775
+            ],
+            [
+              6.563577,
+              53.190849
+            ],
+            [
+              6.563776,
+              53.190563
+            ],
+            [
+              6.563416,
+              53.190482
+            ],
+            [
+              6.563194,
+              53.190775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomhazelaars Nassaulaan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.548039,
+            53.221128
+          ],
+          [
+            6.550545,
+            53.221606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bredeweg Kantens"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.63321,
+            53.362778
+          ],
+          [
+            6.632915,
+            53.362654
+          ],
+          [
+            6.632454,
+            53.362599
+          ],
+          [
+            6.631944,
+            53.362593
+          ],
+          [
+            6.631413,
+            53.362625
+          ],
+          [
+            6.631102,
+            53.362654
+          ],
+          [
+            6.630657,
+            53.362657
+          ],
+          [
+            6.630276,
+            53.362593
+          ],
+          [
+            6.629954,
+            53.362519
+          ],
+          [
+            6.629895,
+            53.362503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "den Uylstraat Groningen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.560297,
+              53.189521
+            ],
+            [
+              6.560699,
+              53.189592
+            ],
+            [
+              6.561193,
+              53.188727
+            ],
+            [
+              6.560769,
+              53.18865
+            ],
+            [
+              6.560297,
+              53.189521
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Florastraat Middelstum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.64543,
+              53.345924
+            ],
+            [
+              6.646133,
+              53.345713
+            ],
+            [
+              6.645924,
+              53.34553
+            ],
+            [
+              6.64528,
+              53.34579
+            ],
+            [
+              6.64543,
+              53.345924
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruithof Frederiksoord"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.189798,
+              52.845012
+            ],
+            [
+              6.19041,
+              52.844655
+            ],
+            [
+              6.192437,
+              52.845666
+            ],
+            [
+              6.191107,
+              52.846936
+            ],
+            [
+              6.191815,
+              52.847448
+            ],
+            [
+              6.194937,
+              52.845381
+            ],
+            [
+              6.191504,
+              52.843567
+            ],
+            [
+              6.190828,
+              52.844027
+            ],
+            [
+              6.190989,
+              52.844195
+            ],
+            [
+              6.190335,
+              52.844571
+            ],
+            [
+              6.189991,
+              52.844441
+            ],
+            [
+              6.189455,
+              52.844837
+            ],
+            [
+              6.189798,
+              52.845012
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mensinge Roden"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.43477,
+              53.135083
+            ],
+            [
+              6.435467,
+              53.135109
+            ],
+            [
+              6.435478,
+              53.1348
+            ],
+            [
+              6.43478,
+              53.134781
+            ],
+            [
+              6.43477,
+              53.135083
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oude Velddijk Peize"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.489412,
+              53.148218
+            ],
+            [
+              6.489851,
+              53.148147
+            ],
+            [
+              6.489755,
+              53.148012
+            ],
+            [
+              6.489336,
+              53.14807
+            ],
+            [
+              6.489412,
+              53.148218
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perenlaan Dokter Larijweg Ruinerwold"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.309071,
+            52.7591
+          ],
+          [
+            6.30847,
+            52.759516
+          ],
+          [
+            6.300745,
+            52.756555
+          ],
+          [
+            6.302977,
+            52.753698
+          ],
+          [
+            6.294994,
+            52.750529
+          ],
+          [
+            6.294737,
+            52.750061
+          ],
+          [
+            6.29611,
+            52.748711
+          ],
+          [
+            6.281862,
+            52.742631
+          ],
+          [
+            6.279631,
+            52.740449
+          ],
+          [
+            6.259975,
+            52.731666
+          ],
+          [
+            6.254826,
+            52.729223
+          ],
+          [
+            6.251736,
+            52.727352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perenlaan Westerbroek"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.659346,
+            53.19431
+          ],
+          [
+            6.665998,
+            53.19701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruime boomgaard Hoornsedijk"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.563419,
+              53.190347
+            ],
+            [
+              6.563966,
+              53.190457
+            ],
+            [
+              6.564524,
+              53.189624
+            ],
+            [
+              6.56395,
+              53.189521
+            ],
+            [
+              6.563419,
+              53.190347
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rocket",
+        "description": "Tuingoed Folz 27 + 28 oktoberNeem fruit mee om te determineren[[http://www.tuingoedfoltz.nl/nieuws/vrucht-bomen-en-snoeidagen]]",
+        "name": "Vruchtbomen en snoeidagen, determineren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.955,
+          53.13648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 Boomgaardje Hoornsedijk",
+        "description": "testerdetest 1\nmet appels peer en walnoot",
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/park2-24_1.png",
+          "color": "DarkOliveGreen",
+          "popupShape": "Large",
+          "showLabel": null,
+          "labelDirection": "auto",
+          "labelInteractive": true
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563441,
+          53.190672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2 Ruime boomgaard Hoornsedijk",
+        "description": "Aangelegd als klimaatbosje. Ruime opzet\nEigendom en beheer onbekend\nSoorten: Walnoot, appel, peer\n\ner staan ook andere bomen en struiken tussen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563988,
+          53.18999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3 Bomenrij Bredeweg Kantens",
+        "description": "Bomenrij langs weg\nEigendom & beheer: gemeente\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.633232,
+          53.362826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4 Florastraat Middelstum",
+        "description": "Restanten van oude hoogstamboomgaard met nieuwe aanplant.\nRassen onbelend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.645484,
+          53.345825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5 Collectieboomgaard Borg Vrhildersum",
+        "description": "Tussen de Borg Verhildersum en Grand Cafe 'Het Schathuys' is een collectieboomgaard aangelegd met veel historische rassen.\n De hoogstamboomgaard is een bijzondere collectietuin, met unieke fruitrassen die in de 19e eeuw in Groningen groeiden en bekend waren. Er zit typisch Groninger rassen tussen als de Noorderkroon, maar ook veel van oorsprong Franse soorten. Het merendeel van de bomen dragen appels, maar er staan ook peren-, kersen- en noten bomen tussen. Ongeveer 135 oude fruitboomrassen, allemaal hoogstam, \n\nDe boomgaard is niet vrij toegankelijk, behalve op evenementen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.395116,
+          53.361642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Van oorsprong was dit een laagstam boomgaard (vertakking op kniehoogte), door een lange periode van weinig onderhoud zijn de bomen hoog opgegroeid. Een zeer sfeervolle en besloten atmosfeer hangt er nu.\nEr is een gedeelte appelboomgaard en een gedeelte perenboomgaard. Het geheel is intussen omsloten door bos.\nVrij wandelen op paden",
+        "name": "Abel Stok Mensingeweer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.446271,
+          53.34822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Oude productieboomgaard van meer dan 300 hoogstamvruchbomen. Oorspronkelijk van een van de broers Crombach (begonnen met Crombach stroop). Hoorde bij Bellethoeve.\nNu eigendom van St Limburgs Landschap. \nOnderhoud door vrijwilligers (snoeien) \nVrij toegankelijk met wnadelroutes naar Heijmansgroeve en Bellethoeve",
+        "name": "Bellet Boomgaard Camerig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.934323,
+          50.765969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bomnerij in grasveld Hogeweg Peize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.497818,
+          53.140895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomgaard 'De Appelhof' Winsum",
+        "description": "Voormalige productieboomgaard die van ondergang gered is door inzet buurtbewoners.\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.52148,
+          53.330328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomgaard Borg Ekestein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.806674,
+          53.321582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomgaard Borg Ewsum",
+        "description": "Op het terrein van de borg Ewsum ligt een historische groentetuin met een fruitmuur en collectieboomgaard met oude streekrassen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64587,
+          53.352908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomgaard den Uylstraat Groningen",
+        "description": "Gemeenschapsboomgaard opgezet door buurtbewoners.\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56063,
+          53.188962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomgaard Fraeylemaborg Slochteren",
+        "description": "De oorspronkelijke boomgaard is verdwenen. Huidige is nieuw aangelegd met streekrassen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.809936,
+          53.214552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomgaard Garnwerderweg",
+        "description": "Nieuwe aanplant hoogstamboomgaard van St Groninger Landschap\nrassen onbekend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.508219,
+          53.324805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomgaard Garrelsweer",
+        "description": "gegevens onbekend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.660182,
+          53.24719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomgaard Mensinge Roden",
+        "description": "Nieuw aanlegde boomgaard (2___) met historische streek-rassen\nSoorten onbekend\nBeheer onbekend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.435091,
+          53.134948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomgaardje Driebondsweg",
+        "description": "Aangelegd als klimaatbosje\nSoorten: Wlanoot, appel, Peer\nRassen: onbekend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.612538,
+          53.224124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomgaardje Euvelgunnerweg Groningen",
+        "description": "Uitgebreide boomgaard met Appels, Peren en Pruimenbomen.\nEigendom en beheer onbekend\nRassen: onbekend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.604232,
+          53.21374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomgaardje Oude Velddijk Peize",
+        "description": "Een klein stukje van het weitje is omgevormd tot boomgaardje. Onderbeplanting met bessenstruiken. \nBeheer: Een groepje vrijwilligers snoeien deze bomen.\nRassen: onbelend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.489567,
+          53.148131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomhazelaars Nassaulaan Groningen",
+        "description": "Dubbele rij Boomhazelaars (Turkse Hazelaar) in middenberm. Enkele sierkersen staan daartussen.\nBeheer': onbekend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.550598,
+          53.087426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dubbele bomenrij Gasselterweg",
+        "description": "In de groenstrook langs de Gasselterweg staat een dubbele rij appelbomen.\nEigendom: onbekend\nBeheer: vrijwilligersploeg ?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77033,
+          52.9959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruithof Frederiksoord",
+        "description": "Collectieboomgaard met .... historische rassen.\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.189562,
+          52.844927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perenlaan Dokter Larijweg Ruinerwold",
+        "description": "Langs de openbare weg staan aan beide kanten voornamelijk perenbomen. De opbrengst wordt jaarlijks per opbod verkocht op de 2e zaterdag van oktober. Daarna is het vrij plukken en rapen.\nEigendom gemmente"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.252337,
+          52.727872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rocket",
+        "name": "Perenlaan Westerbroek",
+        "description": "gegevens onbekend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.662049,
+          53.195416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solitaire Peer",
+        "description": "Een oude perenboom met holle stam. Boom draagt niet meer maar komt nog mooi in blad. Ras onbeKend.\nEigendom: privaat (Cinema Winsinghof??)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.433568,
+          53.135547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soloitaire boom Stitswerd",
+        "description": "In de wegberm staat een appelboom. Vermoedelijk een zaailing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.602075,
+          53.349482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walnoten bij haventje",
+        "description": "Bij de parkeerplaats van het haventje staan langs de rand van het water 3 walnootbomen bij de overige beplanting.\nEigendom en beheer onbekend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.763732,
+          53.075629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "test Lombarts Calville",
+        "description": "ik heb een zak vol Lombarts Calville appels geraapt geraapt\nNeem zelf tasje mee\nophalen op afspraak 06-12345\n{{http://library.wur.nl/speccol/fruithof/fruit/App/ImKl/73WiWi.jpg|200}}\n[[http://library.wur.nl/speccol/fruithof/fruit/App/Tekst/AppT73.htm|rasinformatie]]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.582677,
+          53.197771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boomgaard Quintensbos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.619349,
+          53.143965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruitberceau en boomgaard in Buitenpost",
+        "description": "In de botanische tuin is een gedeelte besteed aan fruitbomen. Veel oude rassen zijn er terug te vinden. Het grootste deel in de vorm van leifruit, met als klapstuk wel een lange berceau.Een aanrader.\nEntree: niet gratis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.137677,
+          53.255943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Open entdag Nietap",
+        "description": "Gegevens\nDatum:\nzaterdag 2 maart \nTijd:\n10:00 - 16:00 \nKosten:\nGratis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.387616,
+          53.148633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Open entdag Slochteren",
+        "description": "zaterdag 23 februari 2019  08:00  - 17:00\ndoor Vrienden van het Oude Fruit\nin de werkschuur van de Fraeylemaborg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.807436,
+          53.215442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Open entdag Warnsveld",
+        "description": "Datum:zondag 24 februari \nTijd:12:00 - 16:00 \nKosten:Gratis\nEvent Categories:algemeen, regio Oost\n\nOrganisator Hennie Rossel\nE-mail: hennie@rossel.nu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.221309,
+          52.141545
+        ]
+      }
+    }
+  ]
+}
