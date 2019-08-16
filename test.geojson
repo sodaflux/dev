@@ -1,0 +1,25 @@
+var geojson = {
+  type: 'FeatureCollection',
+  features: [{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [6.5665, 53.2194]
+    },
+    properties: {
+      title: 'Mapbox',
+      description: 'Groningen'
+    }
+  },
+  {
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [6.5675, 53.3394]
+    },
+    properties: {
+      title: 'Mapbox',
+      description: 'Somewhere else'
+    }
+  }]
+};
