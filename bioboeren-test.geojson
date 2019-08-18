@@ -1,0 +1,605 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B. Steenbergen",
+        "adres": "Zuidveld 16A, Onnen",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.655256,
+          53.136030
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agro Service Tuenter",
+        "adres": "Tangerweg 15, Alteveer",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.022792,
+          53.056529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agro Service Tuenter",
+        "adres": "Emergoweg 1, Westerlee",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.970741,
+          53.134495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "W.Zuideveld",
+        "adres": "Noordwolderweg 21, Noordwolde",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.588440,
+          53.273193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zorgboerderij Pieterburen",
+        "adres": "Broeksterweg 24, Pieterburen",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.422585,
+          53.394314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arkema",
+        "adres": "Boelema, Korengarst 4, Noordbroek",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882549,
+          53.213484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "J.G en J.A. Beukeboom",
+        "adres": "Modderland 3, Finsterwolde",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1099744,
+          53.2006172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L.Bierema",
+        "adres": "Usquerderweg, 18, Rottum",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624054,
+          53.390194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huisman",
+        "adres": "Scheemderzwaag 17, Scheemda",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9245333,
+          53.1940564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P.Wouda",
+        "adres": "Friese Straatweg 15A, Aduard - de Weide Blik",
+	"contact": "email: p.wouda4@kpnmail.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.444656,
+          53.248554
+        ]
+      }
+    }, 
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "E. van Wijk",
+        "adres": "Dijkstilsterweg 5, Leens",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.404604,
+          53.358307
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "A.van Wijk",
+        "adres": "Wierumerschouwsterweg 6 Aduard",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.502522,
+          53.269931
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "P.T.van der Wal",
+        "adres": "Haspelwijk 1, Zevenhuizen",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.337935,
+          53.119702
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "E.Wagenaar",
+        "adres": "Tranendallaan 2, Westerlee",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.002561,
+          53.151268
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "P.Kuijer",
+        "adres": "Lauder Hokweg 11, Sellingen - Bleyendael",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.131817,
+          52.919553
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "J. Buining",
+        "adres": "Ter Apelkanaal oost 17, Ter Apelkanaal",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.049026,
+          52.919553
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "K.Buist",
+        "adres": "Beslotenveenseweg 14, Noord Laren",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.640080,
+          53.122873
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "P.Glas, A.Rijnen - Eikemaheert",
+        "adres": "Stedumerweg 28, Loppersum",
+	"contact": "www.eikemaheert.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7083913,
+          53.32934
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "fam. van Tilburg",
+        "adres": "Ommelanderweg 32, Hornhuizen - Waddenmax",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.326825,
+          53.381331
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "R. van Winsen, T. Aarsman",
+        "adres": "Kattenhage 1, Boerakker - de Buurackers",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.326825,
+          53.185699
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "L.April, J. Anema",
+        "adres": "Paaptilsterweg 7, Uithuizermeeden- de Eemstuin",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.716665,
+          53.405516
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "J. en A. de Haan",
+        "adres": "Peebos 15, Opende - de Groene Weiden",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.215763,
+          53.194586
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "Marcel, Jeanette",
+        "adres": "Westeind 154, Zuidbroek - de Keukentuin",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.818323,
+          53.166278
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "J.van Dijk",
+        "adres": "de Vennenweg 7, Tinallinge",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.554595,
+          53.35441
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "G.J.Stoeten",
+        "adres": "Zuiderweg 15, Zuidhorn - Groen Denken en Doen",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.413814,
+          53.232105
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "A. van den Ham",
+        "adres": "Wildervanksterdallen 63, Wildervank",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.883250,
+          53.054688
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "Trekweg 4",
+        "adres": "Leens - Heartland",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.405061,
+          53.349421
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "A. en G. Hesse",
+        "adres": "Wijnbossenweg 1, Vlagtwedde",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.094127,
+          52.991584
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "Hogelandvlees",
+        "adres": "Krommeweg 10, Losdorp",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.840821,
+          53.376764
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "K.Hogerweg",
+        "adres": "Fransumerweg 2, Den Ham",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.448948,
+          53.278874
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "M.Wiersema - Kleikracht",
+        "adres": "Schilligeham 3, Winsum",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.498901,
+          53.327987
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "K.Kuizenga",
+        "adres": "Ruiten A kanaal West v 3, Ter Apel",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.099084,
+          52.894052
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "H.Kuppens",
+        "adres": "Oudestreek 37, Zevenhuizen - De Oude Streek",
+	"contact": "www.machedoux.nl - info@machedoux.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.346253,
+          53.111922
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "Koudehoek 4",
+        "adres": "Oudeschans - Acacia",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.144484,
+          53.145265
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "R.Lesterhuis en Lesterhuis-Meijden",
+        "adres": "Uiteinderweg 4, Holwierde",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.874908,
+          53.371359
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "H.Linker",
+        "adres": "Hoendiep 48, Oostwold - Groninger Biologische Groentehandel",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.437524,
+          53.210034
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "F.Luinstra",
+        "adres": "Havenstraat 10, Niezijl - De Twee Stromen",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.342982,
+          53.264471
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "H.Luring en H.Luring-te Velde",
+        "adres": "Scholtweg 9, Onstwedde",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.031509,
+          53.019639
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "D.Berenpas en C.Berenpas-Holt",
+        "adres": "Bolmeer 2, Zevenhuizen",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.306015,
+          53.118359
+        ]
+      }
+    }, 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "Bosma en Boonstra",
+        "adres": "Meerweg 3, Wagenborgen",
+	"contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.923944,
+          53.264899
+        ]
+      }
+    } 
+  ]
+}
