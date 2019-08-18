@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garnewolde",
+        "description": "some description text."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.650505,
+          53.246933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meerstad",
+        "description": "some description text again."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.645527,
+          53.224432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ten Boer",
+        "description": "some text"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.698914,
+          53.275787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lewenborg",
+        "description": "some text"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.604843,
+          53.234297
+        ]
+      }
+    }
+  ]
+}
