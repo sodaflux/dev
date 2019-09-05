@@ -607,9 +607,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Name": "soemthing",
-        "Adres": "asdsadsa",
-        "Contact": ""
+        "name": "soemthing",
+        "adres": "asdsadsa",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
