@@ -600,6 +600,24 @@
           53.264899
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "soemthing",
+        "Adres": "asdsadsa",
+        "Contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56158447265625,
+          52.98999060254369
+        ]
+      }
     }
   ]
 }
