@@ -600,21 +600,6 @@
           53.264899
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "something",
-        "Adres": "",
-        "Contact": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.560211181640625,
-          52.99164388840451
-        ]
-      }
     }
   ]
 }
